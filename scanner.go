@@ -1,4 +1,4 @@
-package tools
+package main // set your package
 
 import (
 	"fmt"
